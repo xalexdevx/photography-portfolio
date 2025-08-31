@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/JoaoFranco03/photography-portfolio">
+  <a href="https://github.com/xalexdevx/photography-portfolio">
     <img src="dist/assets/MM.jpg" alt="Logo" width="80" height="80">
   </a>
 
